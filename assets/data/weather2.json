@@ -1,0 +1,18 @@
+{
+    "city": "London",
+    "country": "United Kingdom",
+    "lastUpdated": "2023-10-26 04:30",
+    "tempC": 11,
+    "tempF": 51.8,
+    "feelsLikeC": 9.9,
+    "feelsLikeF": 49.8,
+    "windKph": 4,
+    "windMph": 2.5,
+    "humidity": 94,
+    "uv": 1,
+    "condition": {
+        "text": "Light rain",
+        "icon": "https://cdn.weatherapi.com/weather/128x128/night/296.png",
+        "code": 1183
+    }
+}
